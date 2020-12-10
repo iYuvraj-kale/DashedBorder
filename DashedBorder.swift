@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import UIKit
 class CustomDashedButton: UIButton {
 
     @IBInspectable var cornerRadius: CGFloat = 0 {
